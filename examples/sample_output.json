@@ -1,0 +1,194 @@
+[
+  {
+    "domain": "airbnb.com",
+    "global_rank": 157,
+    "country_rank": 56,
+    "country_rank_cc": "US",
+    "category": "travel_and_tourism/accommodation_and_hotels",
+    "category_rank": 1,
+    "category_rank_name": "Travel_and_Tourism/Accommodation_and_Hotels",
+    "monthly_visits_avg": 115937400,
+    "avg_visit_duration_sec": 416.5062549702978,
+    "pages_per_visit": 14.436601626906839,
+    "bounce_rate": 0.31428167361217,
+    "traffic_sources": {
+      "direct": 0.4565174876058467,
+      "search_organic": 0.23587026722205415,
+      "search_paid": 0.1388193416686194,
+      "social_organic": 0.03106278882039585,
+      "social_paid": 0.008875039220595557,
+      "referrals": 0.055282832337879416,
+      "mail": 0.03316193916072544,
+      "display_ads": 0.03155161889913395,
+      "gen_ai": 0.003589890410377634,
+      "affiliate": 0.005268794654371862
+    },
+    "top_countries": [
+      {
+        "cc": "US",
+        "share": 0.7705917271683687
+      },
+      {
+        "cc": "PH",
+        "share": 0.025133291438483953
+      },
+      {
+        "cc": "DE",
+        "share": 0.011201150767087891
+      },
+      {
+        "cc": "MY",
+        "share": 0.010221174357725555
+      },
+      {
+        "cc": "FR",
+        "share": 0.008619277244215535
+      }
+    ],
+    "estimated_monthly_visits": [
+      {
+        "month": "2026-03-01",
+        "visits": 111685484
+      },
+      {
+        "month": "2026-04-01",
+        "visits": 107846142
+      },
+      {
+        "month": "2026-05-01",
+        "visits": 115937400
+      }
+    ],
+    "is_small": false,
+    "scraped_at": "2026-06-15T12:38:21Z",
+    "error": null
+  },
+  {
+    "domain": "github.com",
+    "global_rank": 48,
+    "country_rank": 75,
+    "country_rank_cc": "US",
+    "category": "computers_electronics_and_technology/programming_and_developer_software",
+    "category_rank": 4,
+    "category_rank_name": "Computers_Electronics_and_Technology/Programming_and_Developer_Software",
+    "monthly_visits_avg": 636075828,
+    "avg_visit_duration_sec": 383.0644990435935,
+    "pages_per_visit": 5.91581420636806,
+    "bounce_rate": 0.36459610619739863,
+    "traffic_sources": {
+      "direct": 0.5167171109470626,
+      "search_organic": 0.2552508855756353,
+      "search_paid": 0.00025978015437874604,
+      "social_organic": 0.09167850079865827,
+      "social_paid": 0.001595029887212337,
+      "referrals": 0.10150011170670332,
+      "mail": 0.010757279645990115,
+      "display_ads": 0.0029434197426234493,
+      "gen_ai": 0.019267513552408255,
+      "affiliate": 3.0367989327414e-05
+    },
+    "top_countries": [
+      {
+        "cc": "US",
+        "share": 0.18934885411429278
+      },
+      {
+        "cc": "CN",
+        "share": 0.12028817752913724
+      },
+      {
+        "cc": "IN",
+        "share": 0.09118011871423107
+      },
+      {
+        "cc": "RU",
+        "share": 0.0830271704015504
+      },
+      {
+        "cc": "DE",
+        "share": 0.04007147331956798
+      }
+    ],
+    "estimated_monthly_visits": [
+      {
+        "month": "2026-03-01",
+        "visits": 634285609
+      },
+      {
+        "month": "2026-04-01",
+        "visits": 631004092
+      },
+      {
+        "month": "2026-05-01",
+        "visits": 636075828
+      }
+    ],
+    "is_small": false,
+    "scraped_at": "2026-06-15T12:38:21Z",
+    "error": null
+  },
+  {
+    "domain": "nytimes.com",
+    "global_rank": 72,
+    "country_rank": 21,
+    "country_rank_cc": "US",
+    "category": "news_and_media",
+    "category_rank": 2,
+    "category_rank_name": "News_and_Media",
+    "monthly_visits_avg": 592641900,
+    "avg_visit_duration_sec": 234.85180107664715,
+    "pages_per_visit": 3.2275666603952837,
+    "bounce_rate": 0.5054456406971927,
+    "traffic_sources": {
+      "direct": 0.5366637428440504,
+      "search_organic": 0.29693443469830305,
+      "search_paid": 0.005875612980117061,
+      "social_organic": 0.039193237311724714,
+      "social_paid": 0.012096972578868702,
+      "referrals": 0.04067329225308974,
+      "mail": 0.06145495618838674,
+      "display_ads": 0.00488944786809462,
+      "gen_ai": 0.0020656929178539786,
+      "affiliate": 0.0001526103595111372
+    },
+    "top_countries": [
+      {
+        "cc": "US",
+        "share": 0.7548612763561715
+      },
+      {
+        "cc": "CA",
+        "share": 0.04341200998414103
+      },
+      {
+        "cc": "GB",
+        "share": 0.03863826274517862
+      },
+      {
+        "cc": "AU",
+        "share": 0.025619539028829887
+      },
+      {
+        "cc": "DE",
+        "share": 0.010287799326089404
+      }
+    ],
+    "estimated_monthly_visits": [
+      {
+        "month": "2026-03-01",
+        "visits": 676271181
+      },
+      {
+        "month": "2026-04-01",
+        "visits": 635026345
+      },
+      {
+        "month": "2026-05-01",
+        "visits": 592641900
+      }
+    ],
+    "is_small": false,
+    "scraped_at": "2026-06-15T12:38:21Z",
+    "error": null
+  }
+]
